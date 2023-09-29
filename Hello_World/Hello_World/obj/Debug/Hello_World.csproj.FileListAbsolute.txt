@@ -1,0 +1,26 @@
+U:\Modulo 2\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+U:\Modulo 2\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+U:\Modulo 2\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.Properties.Resources.resources
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.cache
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.Form1.resources
+U:\Modulo 2\Hello_World\Hello_World\obj\Debug\Hello_World.Cliente.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Cliente.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Form1.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Funcionarios.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Menu.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Obras.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Properties.Resources.resources
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.cache
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+U:\Modulo 2\Desenvolvimento de sistemas\Hello_World\Hello_World\obj\Debug\Hello_World.Splash.resources
